@@ -1,0 +1,6 @@
+PÁGINA ENAMED/ENARE - VERSÃO PERFORMANCE
+
+Publique todos os arquivos e pastas juntos, mantendo a estrutura.
+Arquivo inicial: index.html
+O vídeo está em videos/apresentacao-enamed.mp4 e é carregado somente quando o usuário se aproxima da seção.
+As imagens embutidas foram separadas em /images para reduzir drasticamente o peso do HTML inicial.
